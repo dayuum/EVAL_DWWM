@@ -9,6 +9,7 @@
 </head>
 <body>
 <div class="container ">
+<a class="btn btn-primary" href="index.php" role="button">BACK TO LIST</a>
     <?php
         if($_POST){
             try{
